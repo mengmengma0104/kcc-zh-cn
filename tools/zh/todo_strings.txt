@@ -1,0 +1,18 @@
+===== KCC_ui.py: 0 remaining
+===== KCC_ui_editor.py: 0 remaining
+
+===== KCC_gui.py: 5 remaining
+185 | '<a href="'
+
+1389 | 'Amazon kindlegen'
+
+1470 | 'Folder of images'
+
+1648 | '<a href="'
+
+1762 | 'Folder of images'
+
+
+===== KCC_spread_label.py: 1 remaining
+15 | 'TODO: Filename goes here'
+

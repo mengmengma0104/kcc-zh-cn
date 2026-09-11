@@ -1,0 +1,3079 @@
+{
+ "KCC_gui.py": [
+  {
+   "line": 180,
+   "text": "^v"
+  },
+  {
+   "line": 184,
+   "text": "b.*"
+  },
+  {
+   "line": 185,
+   "text": "\"><b>The new version is available!</b></a>"
+  },
+  {
+   "line": 185,
+   "text": "<a href=\""
+  },
+  {
+   "line": 201,
+   "text": " day(s) left"
+  },
+  {
+   "line": 211,
+   "text": "<a href=\"{}\"><b>{}</b></a>"
+  },
+  {
+   "line": 215,
+   "text": " [referral]"
+  },
+  {
+   "line": 404,
+   "text": "<b>Conversion interrupted.</b>"
+  },
+  {
+   "line": 405,
+   "text": "Conversion interrupted."
+  },
+  {
+   "line": 423,
+   "text": "Attempting file fusion"
+  },
+  {
+   "line": 433,
+   "text": "Created fusion at "
+  },
+  {
+   "line": 435,
+   "text": "Fusion Failed. "
+  },
+  {
+   "line": 436,
+   "text": "Fusion Failed. "
+  },
+  {
+   "line": 439,
+   "text": "Process Failed. Custom title can't be set when processing more than 1 source.\nDid you forget to check fusion?"
+  },
+  {
+   "line": 449,
+   "text": "<b>"
+  },
+  {
+   "line": 449,
+   "text": "Source:</b> "
+  },
+  {
+   "line": 451,
+   "text": "Creating CBZ files"
+  },
+  {
+   "line": 452,
+   "text": "Creating CBZ files"
+  },
+  {
+   "line": 454,
+   "text": "Creating folders"
+  },
+  {
+   "line": 455,
+   "text": "Creating folders"
+  },
+  {
+   "line": 457,
+   "text": "Creating PDF files"
+  },
+  {
+   "line": 458,
+   "text": "Creating PDF files"
+  },
+  {
+   "line": 460,
+   "text": "Creating EPUB files"
+  },
+  {
+   "line": 461,
+   "text": "Creating EPUB files"
+  },
+  {
+   "line": 476,
+   "text": "Error during conversion! Please consult <a href=\"https://github.com/ciromattia/kcc/wiki/Error-messages\">wiki</a> for more details."
+  },
+  {
+   "line": 479,
+   "text": "Error during conversion!"
+  },
+  {
+   "line": 484,
+   "text": "Error during conversion %s:\n\n%s\n\nTraceback:\n%s"
+  },
+  {
+   "line": 486,
+   "text": "Error during conversion! Please consult <a href=\"https://github.com/ciromattia/kcc/wiki/Error-messages\">wiki</a> for more details."
+  },
+  {
+   "line": 489,
+   "text": "Error during conversion!"
+  },
+  {
+   "line": 500,
+   "text": "Creating CBZ files... <b>Done!</b>"
+  },
+  {
+   "line": 502,
+   "text": "Creating folders... <b>Done!</b>"
+  },
+  {
+   "line": 504,
+   "text": "Creating PDF files... <b>Done!</b>"
+  },
+  {
+   "line": 506,
+   "text": "Creating EPUB files... <b>Done!</b>"
+  },
+  {
+   "line": 508,
+   "text": "Creating MOBI files"
+  },
+  {
+   "line": 511,
+   "text": "Creating MOBI files"
+  },
+  {
+   "line": 512,
+   "text": "Creating MOBI files"
+  },
+  {
+   "line": 532,
+   "text": "Creating MOBI files... <b>Done!</b>"
+  },
+  {
+   "line": 533,
+   "text": "Processing MOBI files"
+  },
+  {
+   "line": 534,
+   "text": "Processing MOBI files"
+  },
+  {
+   "line": 553,
+   "text": "Processing MOBI files... <b>Done!</b>"
+  },
+  {
+   "line": 561,
+   "text": "Kindle detected. Uploading covers... <b>Done!</b>"
+  },
+  {
+   "line": 568,
+   "text": "Failed to process MOBI file!"
+  },
+  {
+   "line": 569,
+   "text": "Failed to process MOBI file!"
+  },
+  {
+   "line": 578,
+   "text": "KindleGen failed to create MOBI!"
+  },
+  {
+   "line": 580,
+   "text": "KindleGen failed to create MOBI!"
+  },
+  {
+   "line": 582,
+   "text": "KindleGen error:\n\n"
+  },
+  {
+   "line": 584,
+   "text": "Created EPUB file was too big. Weird file structure?"
+  },
+  {
+   "line": 585,
+   "text": "MB. Supported size: ~350MB."
+  },
+  {
+   "line": 585,
+   "text": "EPUB file: "
+  },
+  {
+   "line": 599,
+   "text": "<b>All jobs completed.</b>"
+  },
+  {
+   "line": 600,
+   "text": "All jobs completed."
+  },
+  {
+   "line": 619,
+   "text": "Kindle Comic Converter"
+  },
+  {
+   "line": 624,
+   "text": "Select default output folder"
+  },
+  {
+   "line": 636,
+   "text": "Cannot select Kindle as output directory"
+  },
+  {
+   "line": 640,
+   "text": "Select output directory"
+  },
+  {
+   "line": 656,
+   "text": "Select file"
+  },
+  {
+   "line": 657,
+   "text": "Comic (*.cbz *.cbr *.cb7 *.zip *.rar *.7z *.epub *.pdf);;All (*.*)"
+  },
+  {
+   "line": 659,
+   "text": "Select file"
+  },
+  {
+   "line": 660,
+   "text": "Comic (*.pdf);;All (*.*)"
+  },
+  {
+   "line": 672,
+   "text": "Select input folder(s)"
+  },
+  {
+   "line": 773,
+   "text": "Select volume directories"
+  },
+  {
+   "line": 793,
+   "text": "Select file(s)"
+  },
+  {
+   "line": 794,
+   "text": "Comic (*.cbz *.cbr *.cb7)"
+  },
+  {
+   "line": 799,
+   "text": "Editor is disabled due to a lack of 7z."
+  },
+  {
+   "line": 800,
+   "text": "<a href=\"https://github.com/ciromattia/kcc#7-zip\">Install 7z (link)</a> to enable metadata editing."
+  },
+  {
+   "line": 810,
+   "text": "Failed to parse metadata!\n\n%s\n\nTraceback:\n%s"
+  },
+  {
+   "line": 997,
+   "text": "You can choose a taller device profile to get taller cuts in webtoon mode."
+  },
+  {
+   "line": 998,
+   "text": "Try reading webtoon panels side by side in landscape!"
+  },
+  {
+   "line": 1037,
+   "text": "This option is intended for older Kindle models."
+  },
+  {
+   "line": 1038,
+   "text": "On this device, there will be conversion speed and quality issues."
+  },
+  {
+   "line": 1039,
+   "text": "Use the Kindle Scribe profile if you want higher resolution when zooming."
+  },
+  {
+   "line": 1053,
+   "text": "Scribe PNG MOBI/EPUB has a lot of problems like blank pages/sections. Use JPG instead."
+  },
+  {
+   "line": 1099,
+   "text": "%.2f"
+  },
+  {
+   "line": 1101,
+   "text": "Gamma: Auto"
+  },
+  {
+   "line": 1103,
+   "text": "Gamma: "
+  },
+  {
+   "line": 1109,
+   "text": "%.2f"
+  },
+  {
+   "line": 1110,
+   "text": "Cropping Power: "
+  },
+  {
+   "line": 1136,
+   "text": "Colorsoft MOBI/EPUB can have blank pages. Just go back a few pages, exit, and reenter book."
+  },
+  {
+   "line": 1145,
+   "text": "<a href=\"https://github.com/ciromattia/kcc/wiki/NonKindle-devices\">List of supported Non-Kindle devices.</a>"
+  },
+  {
+   "line": 1171,
+   "text": "Partially check W/B Margins if you don't want KCC to extend the image margins."
+  },
+  {
+   "line": 1201,
+   "text": "KCC - Error"
+  },
+  {
+   "line": 1203,
+   "text": "KCC - Question"
+  },
+  {
+   "line": 1225,
+   "text": "The process will be interrupted. Please wait."
+  },
+  {
+   "line": 1241,
+   "text": "No files selected! Please choose files to convert."
+  },
+  {
+   "line": 1252,
+   "text": "Target resolution is not set!"
+  },
+  {
+   "line": 1266,
+   "text": "<a href=\"https://github.com/ciromattia/kcc#kindlegen\"><b>Install KindleGen (link)</b></a> to enable MOBI conversion for Kindles!"
+  },
+  {
+   "line": 1273,
+   "text": "The process will be interrupted. Please wait."
+  },
+  {
+   "line": 1363,
+   "text": "Unsupported file type for "
+  },
+  {
+   "line": 1398,
+   "text": "Your <a href=\"https://www.amazon.com/b?node=23496309011\">KindleGen</a> is outdated! MOBI conversion might fail."
+  },
+  {
+   "line": 1408,
+   "text": "kindlegen: "
+  },
+  {
+   "line": 1408,
+   "text": "\n\n Re-install Rosetta/Kindle Previewer/other Intel app?\n\nPlease email Amazon to make Kindle Previewer Apple silicon native at amazon.com/kindle-help"
+  },
+  {
+   "line": 1477,
+   "text": "Folder of images"
+  },
+  {
+   "line": 1479,
+   "text": "PDF (200MB limit)"
+  },
+  {
+   "line": 1480,
+   "text": "KFX (Send to Kindle EPUB)"
+  },
+  {
+   "line": 1481,
+   "text": "MOBI + EPUB"
+  },
+  {
+   "line": 1482,
+   "text": "EPUB (200MB limit)"
+  },
+  {
+   "line": 1483,
+   "text": "MOBI + EPUB (200MB limit)"
+  },
+  {
+   "line": 1488,
+   "text": "Kindle Oasis 9/10"
+  },
+  {
+   "line": 1490,
+   "text": "Kindle 8/10"
+  },
+  {
+   "line": 1492,
+   "text": "Kindle Oasis 8"
+  },
+  {
+   "line": 1494,
+   "text": "Kindle Voyage"
+  },
+  {
+   "line": 1496,
+   "text": "Kindle 1860x1920"
+  },
+  {
+   "line": 1499,
+   "text": "Kindle 1920x1920"
+  },
+  {
+   "line": 1502,
+   "text": "Kindle 1240x1860"
+  },
+  {
+   "line": 1505,
+   "text": "Kindle 1324x1986"
+  },
+  {
+   "line": 1508,
+   "text": "Kindle Scribe 1/2"
+  },
+  {
+   "line": 1511,
+   "text": "Kindle Scribe 3"
+  },
+  {
+   "line": 1514,
+   "text": "Kindle Scribe Colorsoft"
+  },
+  {
+   "line": 1517,
+   "text": "Kindle 11"
+  },
+  {
+   "line": 1520,
+   "text": "Kindle Paperwhite 11"
+  },
+  {
+   "line": 1523,
+   "text": "Kindle Paperwhite 12"
+  },
+  {
+   "line": 1526,
+   "text": "Kindle Colorsoft"
+  },
+  {
+   "line": 1529,
+   "text": "Kindle Paperwhite 7/10"
+  },
+  {
+   "line": 1531,
+   "text": "Kindle Paperwhite 5/6"
+  },
+  {
+   "line": 1533,
+   "text": "Kindle 4/5/7"
+  },
+  {
+   "line": 1535,
+   "text": "Kindle DX"
+  },
+  {
+   "line": 1537,
+   "text": "Kobo Mini/Touch"
+  },
+  {
+   "line": 1539,
+   "text": "Kobo Glo"
+  },
+  {
+   "line": 1541,
+   "text": "Kobo Glo HD"
+  },
+  {
+   "line": 1543,
+   "text": "Kobo Aura"
+  },
+  {
+   "line": 1545,
+   "text": "Kobo Aura HD"
+  },
+  {
+   "line": 1547,
+   "text": "Kobo Aura H2O"
+  },
+  {
+   "line": 1549,
+   "text": "Kobo Aura ONE"
+  },
+  {
+   "line": 1551,
+   "text": "Kobo Clara HD"
+  },
+  {
+   "line": 1553,
+   "text": "Kobo Libra H2O"
+  },
+  {
+   "line": 1555,
+   "text": "Kobo Forma"
+  },
+  {
+   "line": 1557,
+   "text": "Kindle 1"
+  },
+  {
+   "line": 1559,
+   "text": "Kindle 2"
+  },
+  {
+   "line": 1561,
+   "text": "Kindle Keyboard"
+  },
+  {
+   "line": 1563,
+   "text": "Kindle Touch"
+  },
+  {
+   "line": 1565,
+   "text": "Kobo Nia"
+  },
+  {
+   "line": 1567,
+   "text": "Kobo Clara 2E"
+  },
+  {
+   "line": 1569,
+   "text": "Kobo Clara Colour"
+  },
+  {
+   "line": 1571,
+   "text": "Kobo Libra 2"
+  },
+  {
+   "line": 1573,
+   "text": "Kobo Libra Colour"
+  },
+  {
+   "line": 1575,
+   "text": "Kobo Sage"
+  },
+  {
+   "line": 1577,
+   "text": "Kobo Elipsa"
+  },
+  {
+   "line": 1579,
+   "text": "reMarkable 1"
+  },
+  {
+   "line": 1581,
+   "text": "reMarkable 2"
+  },
+  {
+   "line": 1583,
+   "text": "reMarkable Paper Pro"
+  },
+  {
+   "line": 1585,
+   "text": "reMarkable Paper Pro Move"
+  },
+  {
+   "line": 1591,
+   "text": "Kindle Scribe Colorsoft"
+  },
+  {
+   "line": 1592,
+   "text": "Kindle Scribe 3"
+  },
+  {
+   "line": 1593,
+   "text": "Kindle Colorsoft"
+  },
+  {
+   "line": 1594,
+   "text": "Kindle Paperwhite 12"
+  },
+  {
+   "line": 1595,
+   "text": "Kindle Scribe 1/2"
+  },
+  {
+   "line": 1596,
+   "text": "Kindle Paperwhite 11"
+  },
+  {
+   "line": 1597,
+   "text": "Kindle 11"
+  },
+  {
+   "line": 1598,
+   "text": "Kindle Oasis 9/10"
+  },
+  {
+   "line": 1600,
+   "text": "Kobo Clara 2E"
+  },
+  {
+   "line": 1601,
+   "text": "Kobo Clara Colour"
+  },
+  {
+   "line": 1602,
+   "text": "Kobo Sage"
+  },
+  {
+   "line": 1603,
+   "text": "Kobo Libra 2"
+  },
+  {
+   "line": 1604,
+   "text": "Kobo Libra Colour"
+  },
+  {
+   "line": 1605,
+   "text": "Kobo Elipsa"
+  },
+  {
+   "line": 1606,
+   "text": "Kobo Nia"
+  },
+  {
+   "line": 1608,
+   "text": "reMarkable 1"
+  },
+  {
+   "line": 1609,
+   "text": "reMarkable 2"
+  },
+  {
+   "line": 1610,
+   "text": "reMarkable Paper Pro"
+  },
+  {
+   "line": 1611,
+   "text": "reMarkable Paper Pro Move"
+  },
+  {
+   "line": 1615,
+   "text": "Kindle 1324x1986"
+  },
+  {
+   "line": 1616,
+   "text": "Kindle 1920x1920"
+  },
+  {
+   "line": 1617,
+   "text": "Kindle 1860x1920"
+  },
+  {
+   "line": 1618,
+   "text": "Kindle 1240x1860"
+  },
+  {
+   "line": 1619,
+   "text": "Kindle 8/10"
+  },
+  {
+   "line": 1620,
+   "text": "Kindle Oasis 8"
+  },
+  {
+   "line": 1621,
+   "text": "Kindle Paperwhite 7/10"
+  },
+  {
+   "line": 1622,
+   "text": "Kindle Voyage"
+  },
+  {
+   "line": 1623,
+   "text": "Kindle Paperwhite 5/6"
+  },
+  {
+   "line": 1624,
+   "text": "Kindle 4/5/7"
+  },
+  {
+   "line": 1625,
+   "text": "Kindle Touch"
+  },
+  {
+   "line": 1626,
+   "text": "Kindle Keyboard"
+  },
+  {
+   "line": 1627,
+   "text": "Kindle DX"
+  },
+  {
+   "line": 1628,
+   "text": "Kindle 2"
+  },
+  {
+   "line": 1629,
+   "text": "Kindle 1"
+  },
+  {
+   "line": 1631,
+   "text": "Kobo Aura"
+  },
+  {
+   "line": 1632,
+   "text": "Kobo Aura ONE"
+  },
+  {
+   "line": 1633,
+   "text": "Kobo Aura H2O"
+  },
+  {
+   "line": 1634,
+   "text": "Kobo Aura HD"
+  },
+  {
+   "line": 1635,
+   "text": "Kobo Clara HD"
+  },
+  {
+   "line": 1636,
+   "text": "Kobo Forma"
+  },
+  {
+   "line": 1637,
+   "text": "Kobo Glo HD"
+  },
+  {
+   "line": 1638,
+   "text": "Kobo Glo"
+  },
+  {
+   "line": 1639,
+   "text": "Kobo Libra H2O"
+  },
+  {
+   "line": 1640,
+   "text": "Kobo Mini/Touch"
+  },
+  {
+   "line": 1655,
+   "text": "<a href=\""
+  },
+  {
+   "line": 1656,
+   "text": "<b>"
+  },
+  {
+   "line": 1661,
+   "text": "<b>Tip:</b> Hover mouse over options/buttons to see explanations. Boxes can be partially/fully checked."
+  },
+  {
+   "line": 1662,
+   "text": "<b>Tip:</b> You can drag and drop image folders or comic files/archives into this window to convert."
+  },
+  {
+   "line": 1663,
+   "text": "<b>Tip:</b> Calibre may add margins! USB drop directly into the device's documents folder instead."
+  },
+  {
+   "line": 1664,
+   "text": "<b>Tip:</b> You can toggle easy/expert mode using button at top right."
+  },
+  {
+   "line": 1666,
+   "text": "Since you are a new user of <b>KCC</b> please see few <a href=\"https://github.com/ciromattia/kcc/wiki/Important-tips\">important tips</a>."
+  },
+  {
+   "line": 1673,
+   "text": "<a href=\"https://github.com/ciromattia/kcc#7-zip\">Install 7z (link)</a> to enable CBZ/CBR/ZIP/etc processing."
+  },
+  {
+   "line": 1780,
+   "text": "Kindle Comic Converter "
+  },
+  {
+   "line": 1787,
+   "text": "<p><em>Note: Changing this field will overwrite all values in all selected files.</em></p>"
+  },
+  {
+   "line": 1791,
+   "text": "<tr><td style=\"padding:2px 6px; white-space:nowrap;\">"
+  },
+  {
+   "line": 1792,
+   "text": "</td><td style=\"padding:2px 6px;\">"
+  },
+  {
+   "line": 1799,
+   "text": "<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><tr><th style=\"padding:2px 6px; text-align:left;\">File</th><th style=\"padding:2px 6px; text-align:left;\">Value</th></tr>"
+  },
+  {
+   "line": 1813,
+   "text": "<tr><td style=\"padding:2px 6px;\">"
+  },
+  {
+   "line": 1814,
+   "text": "</td><td style=\"padding:2px 6px; text-align:right;\">"
+  },
+  {
+   "line": 1821,
+   "text": "<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><tr><th style=\"padding:2px 6px; text-align:left;\">Value</th><th style=\"padding:2px 6px; text-align:right;\">Count</th></tr>"
+  },
+  {
+   "line": 1830,
+   "text": "            <b>"
+  },
+  {
+   "line": 1831,
+   "text": "</b>            "
+  },
+  {
+   "line": 1851,
+   "text": "CBR files in selection are read-only."
+  },
+  {
+   "line": 1859,
+   "text": "Editing "
+  },
+  {
+   "line": 1859,
+   "text": " files."
+  },
+  {
+   "line": 1868,
+   "text": "(multiple files)"
+  },
+  {
+   "line": 1896,
+   "text": "(multiple values)"
+  },
+  {
+   "line": 1912,
+   "text": "Separate authors with a comma."
+  },
+  {
+   "line": 1948,
+   "text": "No changes to apply."
+  },
+  {
+   "line": 1957,
+   "text": "Processing "
+  },
+  {
+   "line": 1963,
+   "text": ": CBR is read-only"
+  },
+  {
+   "line": 1978,
+   "text": "Some files failed to save:\n\n"
+  },
+  {
+   "line": 1979,
+   "text": "\n...and "
+  },
+  {
+   "line": 1979,
+   "text": " more"
+  },
+  {
+   "line": 1980,
+   "text": "Errors occurred."
+  },
+  {
+   "line": 1982,
+   "text": "Successfully updated "
+  },
+  {
+   "line": 1982,
+   "text": " files."
+  },
+  {
+   "line": 1989,
+   "text": " field must be a number."
+  },
+  {
+   "line": 2005,
+   "text": "Failed to save metadata!\n\n%s\n\nTraceback:\n%s"
+  },
+  {
+   "line": 2023,
+   "text": "Invalid range format (use start-end)"
+  },
+  {
+   "line": 2028,
+   "text": "Volume numbers must be positive"
+  },
+  {
+   "line": 2030,
+   "text": "Invalid range: start > end"
+  },
+  {
+   "line": 2033,
+   "text": "Invalid range format"
+  },
+  {
+   "line": 2039,
+   "text": "Volume numbers must be positive"
+  },
+  {
+   "line": 2041,
+   "text": "Invalid list format"
+  },
+  {
+   "line": 2047,
+   "text": "Volume number must be positive"
+  },
+  {
+   "line": 2050,
+   "text": "Invalid number"
+  },
+  {
+   "line": 2054,
+   "text": "No valid volume numbers parsed"
+  },
+  {
+   "line": 2056,
+   "text": "Volume count ("
+  },
+  {
+   "line": 2056,
+   "text": ") != file count ("
+  },
+  {
+   "line": 2064,
+   "text": "e.g., 5 or 1-10 or 1,3,5"
+  },
+  {
+   "line": 2067,
+   "text": "(multiple files)"
+  }
+ ],
+ "KCC_spread_label.py": [
+  {
+   "line": 15,
+   "text": "TODO: Filename goes here"
+  },
+  {
+   "line": 29,
+   "text": "not a spread"
+  },
+  {
+   "line": 32,
+   "text": "Use arrows to change index."
+  },
+  {
+   "line": 33,
+   "text": "Use space bar to confirm spreads."
+  },
+  {
+   "line": 34,
+   "text": "Use spread shift option to offset by 1."
+  },
+  {
+   "line": 35,
+   "text": "Use enter key to confirm all spreads.Close window to cancel."
+  },
+  {
+   "line": 64,
+   "text": "not a spread"
+  },
+  {
+   "line": 74,
+   "text": "not a spread"
+  },
+  {
+   "line": 81,
+   "text": "not a spread"
+  },
+  {
+   "line": 86,
+   "text": "not a spread"
+  }
+ ],
+ "shared.py": [
+  {
+   "line": 65,
+   "text": "same code as Pillow ImageOps.contain()"
+  },
+  {
+   "line": 122,
+   "text": "PySide 6.0.0"
+  },
+  {
+   "line": 124,
+   "text": "PySide 6.0.0+"
+  },
+  {
+   "line": 129,
+   "text": "psutil 5.0.0+"
+  },
+  {
+   "line": 131,
+   "text": "psutil 5.0.0+"
+  },
+  {
+   "line": 138,
+   "text": "python-slugify 1.2.1+"
+  },
+  {
+   "line": 140,
+   "text": "python-slugify 1.2.1+"
+  },
+  {
+   "line": 144,
+   "text": "Pillow 8.3.0+"
+  },
+  {
+   "line": 146,
+   "text": "Pillow 8.3.0+"
+  },
+  {
+   "line": 150,
+   "text": "PyMuPDF 1.16.1+"
+  },
+  {
+   "line": 152,
+   "text": "PyMuPDF 1.16.1+"
+  },
+  {
+   "line": 154,
+   "text": " is not installed!"
+  },
+  {
+   "line": 154,
+   "text": "ERROR: "
+  }
+ ],
+ "startup.py": [
+  {
+   "line": 48,
+   "text": " - Written by Ciro Mattia Gonano and Pawel Jastrzebski."
+  },
+  {
+   "line": 48,
+   "text": "comic2ebook v"
+  },
+  {
+   "line": 55,
+   "text": " - Written by Ciro Mattia Gonano and Pawel Jastrzebski."
+  },
+  {
+   "line": 55,
+   "text": "comic2panel v"
+  }
+ ],
+ "comic2ebook.py": [
+  {
+   "line": 78,
+   "text": "No matching files found."
+  },
+  {
+   "line": 91,
+   "text": "Working on "
+  },
+  {
+   "line": 106,
+   "text": "background-color:#000000;"
+  },
+  {
+   "line": 131,
+   "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+  },
+  {
+   "line": 132,
+   "text": "<!DOCTYPE html>\n"
+  },
+  {
+   "line": 133,
+   "text": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
+  },
+  {
+   "line": 134,
+   "text": "<head>\n"
+  },
+  {
+   "line": 135,
+   "text": "<title>"
+  },
+  {
+   "line": 136,
+   "text": "<link href=\""
+  },
+  {
+   "line": 136,
+   "text": "style.css\" type=\"text/css\" rel=\"stylesheet\"/>\n"
+  },
+  {
+   "line": 137,
+   "text": "<meta name=\"viewport\" content=\"width="
+  },
+  {
+   "line": 138,
+   "text": ", height="
+  },
+  {
+   "line": 140,
+   "text": "<body style=\""
+  },
+  {
+   "line": 141,
+   "text": "<div style=\"text-align:center;\">\n"
+  },
+  {
+   "line": 145,
+   "text": "<div style=\"display:none;\">.</div>\n"
+  },
+  {
+   "line": 146,
+   "text": "<img width=\""
+  },
+  {
+   "line": 146,
+   "text": "\" height=\""
+  },
+  {
+   "line": 146,
+   "text": "\" src=\""
+  },
+  {
+   "line": 148,
+   "text": "<img style=\"top: 1920px\" width=\""
+  },
+  {
+   "line": 148,
+   "text": "\" height=\""
+  },
+  {
+   "line": 148,
+   "text": "\" src=\""
+  },
+  {
+   "line": 167,
+   "text": "position:absolute;left:0;top:0;"
+  },
+  {
+   "line": 168,
+   "text": "position:absolute;right:0;top:0;"
+  },
+  {
+   "line": 169,
+   "text": "position:absolute;left:0;bottom:0;"
+  },
+  {
+   "line": 170,
+   "text": "position:absolute;right:0;bottom:0;"
+  },
+  {
+   "line": 171,
+   "text": "position:absolute;top:0;left:"
+  },
+  {
+   "line": 172,
+   "text": "position:absolute;bottom:0;left:"
+  },
+  {
+   "line": 173,
+   "text": "position:absolute;left:0;top:"
+  },
+  {
+   "line": 174,
+   "text": "position:absolute;right:0;top:"
+  },
+  {
+   "line": 175,
+   "text": "<div id=\"PV\">\n"
+  },
+  {
+   "line": 210,
+   "text": "<div id=\""
+  },
+  {
+   "line": 211,
+   "text": "<a style=\"display:inline-block;width:100%;height:100%;\" class=\"app-amzn-magnify\" data-app-amzn-magnify='{\"targetId\":\""
+  },
+  {
+   "line": 213,
+   "text": "-P\", \"ordinal\":"
+  },
+  {
+   "line": 217,
+   "text": "-P\" style=\""
+  },
+  {
+   "line": 217,
+   "text": "<div class=\"PV-P\" id=\""
+  },
+  {
+   "line": 218,
+   "text": "\" src=\""
+  },
+  {
+   "line": 218,
+   "text": "<img style=\""
+  },
+  {
+   "line": 219,
+   "text": "\" height=\""
+  },
+  {
+   "line": 219,
+   "text": "\" width=\""
+  },
+  {
+   "line": 230,
+   "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+  },
+  {
+   "line": 231,
+   "text": "<ncx version=\"2005-1\" xml:lang=\""
+  },
+  {
+   "line": 231,
+   "text": "\" xmlns=\"http://www.daisy.org/z3986/2005/ncx/\">\n"
+  },
+  {
+   "line": 232,
+   "text": "<head>\n"
+  },
+  {
+   "line": 233,
+   "text": "<meta name=\"dtb:uid\" content=\"urn:uuid:"
+  },
+  {
+   "line": 234,
+   "text": "<meta name=\"dtb:depth\" content=\"1\"/>\n"
+  },
+  {
+   "line": 235,
+   "text": "<meta name=\"dtb:totalPageCount\" content=\"0\"/>\n"
+  },
+  {
+   "line": 236,
+   "text": "<meta name=\"dtb:maxPageNumber\" content=\"0\"/>\n"
+  },
+  {
+   "line": 237,
+   "text": "<meta name=\"generated\" content=\"true\"/>\n"
+  },
+  {
+   "line": 239,
+   "text": "<docTitle><text>"
+  },
+  {
+   "line": 240,
+   "text": "<navMap>\n"
+  },
+  {
+   "line": 250,
+   "text": "\"><navLabel><text>"
+  },
+  {
+   "line": 250,
+   "text": "<navPoint id=\""
+  },
+  {
+   "line": 251,
+   "text": "</text></navLabel><content src=\""
+  },
+  {
+   "line": 260,
+   "text": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
+  },
+  {
+   "line": 261,
+   "text": "<!DOCTYPE html>\n"
+  },
+  {
+   "line": 262,
+   "text": "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">\n"
+  },
+  {
+   "line": 263,
+   "text": "<head>\n"
+  },
+  {
+   "line": 264,
+   "text": "<title>"
+  },
+  {
+   "line": 265,
+   "text": "<meta charset=\"utf-8\"/>\n"
+  },
+  {
+   "line": 267,
+   "text": "<body>\n"
+  },
+  {
+   "line": 268,
+   "text": "<nav xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"toc\" id=\"toc\">\n"
+  },
+  {
+   "line": 269,
+   "text": "<ol>\n"
+  },
+  {
+   "line": 277,
+   "text": ".xhtml\">"
+  },
+  {
+   "line": 277,
+   "text": "<li><a href=\""
+  },
+  {
+   "line": 280,
+   "text": "<nav epub:type=\"page-list\">\n"
+  },
+  {
+   "line": 281,
+   "text": "<ol>\n"
+  },
+  {
+   "line": 289,
+   "text": ".xhtml\">"
+  },
+  {
+   "line": 289,
+   "text": "<li><a href=\""
+  },
+  {
+   "line": 314,
+   "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+  },
+  {
+   "line": 315,
+   "text": "<package version=\"3.0\" unique-identifier=\"BookID\" "
+  },
+  {
+   "line": 317,
+   "text": "<metadata xmlns:opf=\"http://www.idpf.org/2007/opf\" "
+  },
+  {
+   "line": 319,
+   "text": "<dc:title>"
+  },
+  {
+   "line": 320,
+   "text": "<dc:language>"
+  },
+  {
+   "line": 321,
+   "text": "<dc:identifier id=\"BookID\">urn:uuid:"
+  },
+  {
+   "line": 322,
+   "text": "<dc:contributor id=\"contributor\">KindleComicConverter-"
+  },
+  {
+   "line": 324,
+   "text": "<dc:description>"
+  },
+  {
+   "line": 326,
+   "text": "<dc:creator>"
+  },
+  {
+   "line": 328,
+   "text": "<meta property=\"belongs-to-collection\" id=\"c02\">"
+  },
+  {
+   "line": 329,
+   "text": "<meta refines=\"#c02\" property=\"collection-type\">"
+  },
+  {
+   "line": 331,
+   "text": "<meta refines=\"#c02\" property=\"group-position\">"
+  },
+  {
+   "line": 333,
+   "text": "<meta refines=\"#c02\" property=\"group-position\">"
+  },
+  {
+   "line": 335,
+   "text": "<meta refines=\"#c02\" property=\"group-position\">"
+  },
+  {
+   "line": 336,
+   "text": "<meta property=\"dcterms:modified\">"
+  },
+  {
+   "line": 336,
+   "text": "%Y-%m-%dT%H:%M:%SZ"
+  },
+  {
+   "line": 338,
+   "text": "<meta name=\"cover\" content=\"cover\"/>\n"
+  },
+  {
+   "line": 340,
+   "text": "<meta name=\"fixed-layout\" content=\"true\"/>\n"
+  },
+  {
+   "line": 344,
+   "text": "<meta name=\"original-resolution\" content=\""
+  },
+  {
+   "line": 350,
+   "text": "<meta name=\"original-resolution\" content=\""
+  },
+  {
+   "line": 354,
+   "text": "<meta name=\"book-type\" content=\"comic\"/>\n"
+  },
+  {
+   "line": 355,
+   "text": "<meta name=\"primary-writing-mode\" content=\""
+  },
+  {
+   "line": 356,
+   "text": "<meta name=\"zero-gutter\" content=\"true\"/>\n"
+  },
+  {
+   "line": 357,
+   "text": "<meta name=\"zero-margin\" content=\"true\"/>\n"
+  },
+  {
+   "line": 358,
+   "text": "<meta name=\"ke-border-color\" content=\"#FFFFFF\"/>\n"
+  },
+  {
+   "line": 359,
+   "text": "<meta name=\"ke-border-width\" content=\"0\"/>\n"
+  },
+  {
+   "line": 360,
+   "text": "<meta name=\"orientation-lock\" content=\"none\"/>\n"
+  },
+  {
+   "line": 362,
+   "text": "<meta name=\"region-mag\" content=\"false\"/>\n"
+  },
+  {
+   "line": 364,
+   "text": "<meta name=\"region-mag\" content=\"true\"/>\n"
+  },
+  {
+   "line": 366,
+   "text": "<meta property=\"rendition:spread\">landscape</meta>\n"
+  },
+  {
+   "line": 367,
+   "text": "<meta property=\"rendition:layout\">pre-paginated</meta>\n"
+  },
+  {
+   "line": 369,
+   "text": "</metadata>\n<manifest>\n<item id=\"ncx\" href=\"toc.ncx\" "
+  },
+  {
+   "line": 371,
+   "text": "<item id=\"nav\" href=\"nav.xhtml\" "
+  },
+  {
+   "line": 372,
+   "text": "properties=\"nav\" media-type=\"application/xhtml+xml\"/>\n"
+  },
+  {
+   "line": 375,
+   "text": "<item id=\"cover\" href=\"Images/cover.jpg"
+  },
+  {
+   "line": 375,
+   "text": "\" media-type=\""
+  },
+  {
+   "line": 376,
+   "text": "\" properties=\"cover-image\"/>\n"
+  },
+  {
+   "line": 383,
+   "text": "\" href=\""
+  },
+  {
+   "line": 383,
+   "text": "<item id=\"page_"
+  },
+  {
+   "line": 385,
+   "text": ".xhtml\" media-type=\"application/xhtml+xml\"/>\n"
+  },
+  {
+   "line": 394,
+   "text": "\" media-type=\""
+  },
+  {
+   "line": 394,
+   "text": "\" href=\""
+  },
+  {
+   "line": 394,
+   "text": "<item id=\"img_"
+  },
+  {
+   "line": 399,
+   "text": "\" media-type=\""
+  },
+  {
+   "line": 399,
+   "text": "\" href=\""
+  },
+  {
+   "line": 399,
+   "text": "<item id=\"img_"
+  },
+  {
+   "line": 400,
+   "text": "<item id=\"css\" href=\"Text/style.css\" media-type=\"text/css\"/>\n"
+  },
+  {
+   "line": 405,
+   "text": "linear=\"yes\" properties=\"page-spread-%s\""
+  },
+  {
+   "line": 407,
+   "text": "properties=\"rendition:page-spread-%s\""
+  },
+  {
+   "line": 413,
+   "text": "</manifest>\n<spine page-progression-direction=\"ltr\" toc=\"ncx\">\n"
+  },
+  {
+   "line": 416,
+   "text": "</manifest>\n<spine page-progression-direction=\"rtl\" toc=\"ncx\">\n"
+  },
+  {
+   "line": 420,
+   "text": "</manifest>\n<spine page-progression-direction=\"rtl\" toc=\"ncx\">\n"
+  },
+  {
+   "line": 423,
+   "text": "</manifest>\n<spine page-progression-direction=\"ltr\" toc=\"ncx\">\n"
+  },
+  {
+   "line": 493,
+   "text": "<itemref idref=\"page_"
+  },
+  {
+   "line": 499,
+   "text": "<?xml version=\"1.0\"?>\n"
+  },
+  {
+   "line": 500,
+   "text": "<container version=\"1.0\" xmlns=\"urn:oasis:names:tc:opendocument:xmlns:container\">\n"
+  },
+  {
+   "line": 501,
+   "text": "<rootfiles>\n"
+  },
+  {
+   "line": 502,
+   "text": "<rootfile full-path=\"OEBPS/content.opf\" media-type=\"application/oebps-package+xml\"/>\n"
+  },
+  {
+   "line": 512,
+   "text": "@page {\n"
+  },
+  {
+   "line": 513,
+   "text": "margin: 0;\n"
+  },
+  {
+   "line": 515,
+   "text": "body {\n"
+  },
+  {
+   "line": 516,
+   "text": "display: block;\n"
+  },
+  {
+   "line": 517,
+   "text": "margin: 0;\n"
+  },
+  {
+   "line": 518,
+   "text": "padding: 0;\n"
+  },
+  {
+   "line": 523,
+   "text": "img {\n"
+  },
+  {
+   "line": 524,
+   "text": "display: block;\n"
+  },
+  {
+   "line": 528,
+   "text": "#PV {\n"
+  },
+  {
+   "line": 529,
+   "text": "position: absolute;\n"
+  },
+  {
+   "line": 530,
+   "text": "width: 100%;\n"
+  },
+  {
+   "line": 531,
+   "text": "height: 100%;\n"
+  },
+  {
+   "line": 532,
+   "text": "top: 0;\n"
+  },
+  {
+   "line": 533,
+   "text": "left: 0;\n"
+  },
+  {
+   "line": 535,
+   "text": "#PV-T {\n"
+  },
+  {
+   "line": 536,
+   "text": "top: 0;\n"
+  },
+  {
+   "line": 537,
+   "text": "width: 100%;\n"
+  },
+  {
+   "line": 538,
+   "text": "height: 50%;\n"
+  },
+  {
+   "line": 540,
+   "text": "#PV-B {\n"
+  },
+  {
+   "line": 541,
+   "text": "bottom: 0;\n"
+  },
+  {
+   "line": 542,
+   "text": "width: 100%;\n"
+  },
+  {
+   "line": 543,
+   "text": "height: 50%;\n"
+  },
+  {
+   "line": 545,
+   "text": "#PV-L {\n"
+  },
+  {
+   "line": 546,
+   "text": "left: 0;\n"
+  },
+  {
+   "line": 547,
+   "text": "width: 49.5%;\n"
+  },
+  {
+   "line": 548,
+   "text": "height: 100%;\n"
+  },
+  {
+   "line": 549,
+   "text": "float: left;\n"
+  },
+  {
+   "line": 551,
+   "text": "#PV-R {\n"
+  },
+  {
+   "line": 552,
+   "text": "right: 0;\n"
+  },
+  {
+   "line": 553,
+   "text": "width: 49.5%;\n"
+  },
+  {
+   "line": 554,
+   "text": "height: 100%;\n"
+  },
+  {
+   "line": 555,
+   "text": "float: right;\n"
+  },
+  {
+   "line": 557,
+   "text": "#PV-TL {\n"
+  },
+  {
+   "line": 558,
+   "text": "top: 0;\n"
+  },
+  {
+   "line": 559,
+   "text": "left: 0;\n"
+  },
+  {
+   "line": 560,
+   "text": "width: 49.5%;\n"
+  },
+  {
+   "line": 561,
+   "text": "height: 50%;\n"
+  },
+  {
+   "line": 562,
+   "text": "float: left;\n"
+  },
+  {
+   "line": 564,
+   "text": "#PV-TR {\n"
+  },
+  {
+   "line": 565,
+   "text": "top: 0;\n"
+  },
+  {
+   "line": 566,
+   "text": "right: 0;\n"
+  },
+  {
+   "line": 567,
+   "text": "width: 49.5%;\n"
+  },
+  {
+   "line": 568,
+   "text": "height: 50%;\n"
+  },
+  {
+   "line": 569,
+   "text": "float: right;\n"
+  },
+  {
+   "line": 571,
+   "text": "#PV-BL {\n"
+  },
+  {
+   "line": 572,
+   "text": "bottom: 0;\n"
+  },
+  {
+   "line": 573,
+   "text": "left: 0;\n"
+  },
+  {
+   "line": 574,
+   "text": "width: 49.5%;\n"
+  },
+  {
+   "line": 575,
+   "text": "height: 50%;\n"
+  },
+  {
+   "line": 576,
+   "text": "float: left;\n"
+  },
+  {
+   "line": 578,
+   "text": "#PV-BR {\n"
+  },
+  {
+   "line": 579,
+   "text": "bottom: 0;\n"
+  },
+  {
+   "line": 580,
+   "text": "right: 0;\n"
+  },
+  {
+   "line": 581,
+   "text": "width: 49.5%;\n"
+  },
+  {
+   "line": 582,
+   "text": "height: 50%;\n"
+  },
+  {
+   "line": 583,
+   "text": "float: right;\n"
+  },
+  {
+   "line": 585,
+   "text": ".PV-P {\n"
+  },
+  {
+   "line": 586,
+   "text": "width: 100%;\n"
+  },
+  {
+   "line": 587,
+   "text": "height: 100%;\n"
+  },
+  {
+   "line": 588,
+   "text": "top: 0;\n"
+  },
+  {
+   "line": 589,
+   "text": "position: absolute;\n"
+  },
+  {
+   "line": 590,
+   "text": "display: none;\n"
+  },
+  {
+   "line": 615,
+   "text": "buildHTML: "
+  },
+  {
+   "line": 615,
+   "text": " seconds"
+  },
+  {
+   "line": 652,
+   "text": "\n    Build a PDF file from processed comic images.\n    Images are combined into a single PDF optimized for e-readers.\n    "
+  },
+  {
+   "line": 676,
+   "text": "MuPDF output: "
+  },
+  {
+   "line": 676,
+   "text": " sec"
+  },
+  {
+   "line": 700,
+   "text": "imgFileProcessing: "
+  },
+  {
+   "line": 700,
+   "text": " seconds"
+  },
+  {
+   "line": 707,
+   "text": "Conversion interrupted."
+  },
+  {
+   "line": 710,
+   "text": "One of workers crashed. Maybe restart PC. Cause: "
+  },
+  {
+   "line": 713,
+   "text": "C2E: Source directory is empty."
+  },
+  {
+   "line": 773,
+   "text": "Render a page range of a document.\n\n    Notes:\n        The PyMuPDF document cannot be part of the argument, because that\n        cannot be pickled. So we are being passed in just its filename.\n        This is no performance issue, because we are a separate process and\n        need to open the document anyway.\n        Any page-specific function can be processed here - rendering is just\n        an example - text extraction might be another.\n        The work must however be self-contained: no inter-process communication\n        or synchronization is possible with this design.\n        Care must also be taken with which parameters are contained in the\n        argument, because it will be passed in via pickling by the Pool class.\n        So any large objects will increase the overall duration.\n    Args:\n        vector: a list containing required parameters.\n    "
+  },
+  {
+   "line": 817,
+   "text": "Processed page numbers %i through %i"
+  },
+  {
+   "line": 822,
+   "text": "For pages with single image (and no text). Otherwise it's recommended to use render_page()\n\n    Notes:\n        The PyMuPDF document cannot be part of the argument, because that\n        cannot be pickled. So we are being passed in just its filename.\n        This is no performance issue, because we are a separate process and\n        need to open the document anyway.\n        Any page-specific function can be processed here - rendering is just\n        an example - text extraction might be another.\n        The work must however be self-contained: no inter-process communication\n        or synchronization is possible with this design.\n        Care must also be taken with which parameters are contained in the\n        argument, because it will be passed in via pickling by the Pool class.\n        So any large objects will increase the overall duration.\n    Args:\n        vector: a list containing required parameters.\n    "
+  },
+  {
+   "line": 859,
+   "text": "mupdf_pdf_extract_page_image() function can be used only with single image pages."
+  },
+  {
+   "line": 872,
+   "text": "Processed page numbers %i through %i"
+  },
+  {
+   "line": 896,
+   "text": "PDF input can also use legacy extract option if you have any problems"
+  },
+  {
+   "line": 898,
+   "text": "PDF input can also use legacy extract option if you have any problems"
+  },
+  {
+   "line": 904,
+   "text": "Starting %i processes for '%s'."
+  },
+  {
+   "line": 913,
+   "text": "MuPDF: "
+  },
+  {
+   "line": 913,
+   "text": " sec"
+  },
+  {
+   "line": 932,
+   "text": "Not enough disk space to perform conversion. Try Temp Directory option."
+  },
+  {
+   "line": 943,
+   "text": "Failed to prepare a workspace."
+  },
+  {
+   "line": 956,
+   "text": "Failed to extract images from PDF file."
+  },
+  {
+   "line": 969,
+   "text": "Failed to extract images from PDF file. "
+  },
+  {
+   "line": 1064,
+   "text": "Failed to open source file/directory."
+  },
+  {
+   "line": 1157,
+   "text": " Vol. "
+  },
+  {
+   "line": 1232,
+   "text": "No images detected."
+  },
+  {
+   "line": 1234,
+   "text": "Possible causes:"
+  },
+  {
+   "line": 1236,
+   "text": "1) Incompatible image file extension like .jxl. Convert to .png first outside of KCC."
+  },
+  {
+   "line": 1237,
+   "text": "2) Nested archive: Either extract the nested archive outside of KCC or use File Fusion option."
+  },
+  {
+   "line": 1322,
+   "text": "Unsupported directory structure."
+  },
+  {
+   "line": 1389,
+   "text": "Image file %s is corrupted."
+  },
+  {
+   "line": 1398,
+   "text": "not available"
+  },
+  {
+   "line": 1399,
+   "text": "Pillow was compiled without JPG and/or PNG decoder."
+  },
+  {
+   "line": 1401,
+   "text": "Image file %s is corrupted. Error: %s"
+  },
+  {
+   "line": 1409,
+   "text": "WARNING: Source files are probably created by KCC. The second conversion will decrease quality."
+  },
+  {
+   "line": 1411,
+   "text": "Source files are probably created by KCC. The second conversion will decrease quality."
+  },
+  {
+   "line": 1415,
+   "text": "WARNING: More than 25% of images are smaller than target device resolution. Consider enabling stretching or upscaling to improve readability."
+  },
+  {
+   "line": 1418,
+   "text": "More than 25% of images are smaller than target device resolution."
+  },
+  {
+   "line": 1419,
+   "text": "Consider enabling stretching or upscaling to improve readability."
+  },
+  {
+   "line": 1448,
+   "text": "!mimetype"
+  },
+  {
+   "line": 1454,
+   "text": "!mimetype"
+  },
+  {
+   "line": 1467,
+   "text": "makeZIP time: "
+  },
+  {
+   "line": 1467,
+   "text": " seconds"
+  },
+  {
+   "line": 1471,
+   "text": "kcc-c2e [options] [input]"
+  },
+  {
+   "line": 1476,
+   "text": "OUTPUT SETTINGS"
+  },
+  {
+   "line": 1477,
+   "text": "CUSTOM PROFILE"
+  },
+  {
+   "line": 1481,
+   "text": "Full path to comic folder or file(s) to be processed."
+  },
+  {
+   "line": 1484,
+   "text": "Device profile (Available options: "
+  },
+  {
+   "line": 1484,
+   "text": ") [Default=KV]"
+  },
+  {
+   "line": 1487,
+   "text": "Manga style (right-to-left reading and splitting)"
+  },
+  {
+   "line": 1489,
+   "text": "Only resize images and preserve original file structure."
+  },
+  {
+   "line": 1491,
+   "text": "Crop to fill screen."
+  },
+  {
+   "line": 1493,
+   "text": "Force EBOK tag instead of PDOC for MOBI"
+  },
+  {
+   "line": 1495,
+   "text": "Invert page turn direction"
+  },
+  {
+   "line": 1497,
+   "text": "Try to increase the quality of magnification"
+  },
+  {
+   "line": 1499,
+   "text": "Display two not four panels in Panel View mode"
+  },
+  {
+   "line": 1501,
+   "text": "Display side panels first in virtual panel view"
+  },
+  {
+   "line": 1503,
+   "text": "Webtoon processing mode"
+  },
+  {
+   "line": 1505,
+   "text": "the maximal size of output file in MB. [Default=100MB for webtoon and 400MB for others]"
+  },
+  {
+   "line": 1509,
+   "text": "Output generated file to specified directory or file"
+  },
+  {
+   "line": 1511,
+   "text": "Comic title [Default=filename or directory name]"
+  },
+  {
+   "line": 1513,
+   "text": "Write title using ComicInfo.xml or other embedded metadata. 1: Combine Title with default schema 2: Use Title only"
+  },
+  {
+   "line": 1516,
+   "text": "Keep any original ComicInfo.xml files"
+  },
+  {
+   "line": 1518,
+   "text": "Author name [Default=KCC]"
+  },
+  {
+   "line": 1520,
+   "text": "EPUB language [Default=en-US]"
+  },
+  {
+   "line": 1522,
+   "text": "Output format (Available options: Auto, MOBI, EPUB, CBZ, KFX, MOBI+EPUB, PDF) [Default=Auto]"
+  },
+  {
+   "line": 1525,
+   "text": "If format is EPUB, output file with '.epub' extension rather than '.kepub.epub'"
+  },
+  {
+   "line": 1527,
+   "text": "Split output into multiple files. 0: Don't split 1: Automatic mode 2: Consider every subdirectory as separate volume [Default=0]"
+  },
+  {
+   "line": 1530,
+   "text": "Shift first page to opposite side in landscape for spread alignment"
+  },
+  {
+   "line": 1532,
+   "text": "Show a single centered page in landscape"
+  },
+  {
+   "line": 1534,
+   "text": "Do not rotate double page spreads in spread splitter option."
+  },
+  {
+   "line": 1536,
+   "text": "Rotate double page spreads in opposite direction."
+  },
+  {
+   "line": 1538,
+   "text": "Put rotated 2 page spread first in spread splitter option."
+  },
+  {
+   "line": 1541,
+   "text": "Do not modify image and ignore any profile or processing option"
+  },
+  {
+   "line": 1543,
+   "text": "Use the legacy PDF/EPUB image extraction method from older KCC versions"
+  },
+  {
+   "line": 1545,
+   "text": "Render vector PDFs to device width instead of height."
+  },
+  {
+   "line": 1547,
+   "text": "Attempt to crop main cover from wide image"
+  },
+  {
+   "line": 1549,
+   "text": "Crop cover to fill screen"
+  },
+  {
+   "line": 1551,
+   "text": "Resize images smaller than device's resolution"
+  },
+  {
+   "line": 1553,
+   "text": "Stretch images to device's resolution"
+  },
+  {
+   "line": 1555,
+   "text": "Double page parsing mode. 0: Split 1: Rotate 2: Both [Default=0]"
+  },
+  {
+   "line": 1557,
+   "text": "Apply gamma correction to linearize the image [Default=Auto]"
+  },
+  {
+   "line": 1559,
+   "text": "Set most common dark pixel value to be black point for leveling."
+  },
+  {
+   "line": 1561,
+   "text": "Disable autocontrast."
+  },
+  {
+   "line": 1563,
+   "text": "Autocontrast color pages too. Skipped for pages without near blacks or whites."
+  },
+  {
+   "line": 1565,
+   "text": "Combines all input files into a single file."
+  },
+  {
+   "line": 1567,
+   "text": "Set cropping mode. 0: Disabled 1: Margins 2: Margins + page numbers [Default=2]"
+  },
+  {
+   "line": 1569,
+   "text": "Set cropping power [Default=1.0]"
+  },
+  {
+   "line": 1571,
+   "text": "After calculating crop, back up specified percentage amount. [Default=0]"
+  },
+  {
+   "line": 1573,
+   "text": "Set cropping minimum area ratio [Default=0.0]"
+  },
+  {
+   "line": 1575,
+   "text": "Crop empty sections. 0: Disabled 1: Horizontally 2: Both [Default=0]"
+  },
+  {
+   "line": 1577,
+   "text": "Disable autodetection and force black borders"
+  },
+  {
+   "line": 1579,
+   "text": "Disable autodetection and force white borders"
+  },
+  {
+   "line": 1581,
+   "text": "Don't convert images to grayscale"
+  },
+  {
+   "line": 1583,
+   "text": "Erase rainbow effect on color eink screen by attenuating interfering frequencies"
+  },
+  {
+   "line": 1585,
+   "text": "Create PNG files instead JPEG for black and white images"
+  },
+  {
+   "line": 1587,
+   "text": "Force color images to be saved as PNG"
+  },
+  {
+   "line": 1589,
+   "text": "Replace JPG with lossy WEBP and PNG with lossless WEBP"
+  },
+  {
+   "line": 1591,
+   "text": "Use a more compatible 8 bit png instead of 4 bit"
+  },
+  {
+   "line": 1593,
+   "text": "Don't quantize to 16 color PNG"
+  },
+  {
+   "line": 1595,
+   "text": "Create JPEG files using mozJpeg"
+  },
+  {
+   "line": 1597,
+   "text": "The JPEG quality, on a scale from 0 (worst) to 95 (best). Default 85 for most devices."
+  },
+  {
+   "line": 1599,
+   "text": "Turn 1x4 strips to 2x2 strips"
+  },
+  {
+   "line": 1601,
+   "text": "Delete source file(s) or a directory. It's not recoverable."
+  },
+  {
+   "line": 1603,
+   "text": "Create temporary files directory on source file drive."
+  },
+  {
+   "line": 1606,
+   "text": "Replace screen width provided by device profile"
+  },
+  {
+   "line": 1608,
+   "text": "Replace screen height provided by device profile"
+  },
+  {
+   "line": 1611,
+   "text": "Show this help message and exit"
+  },
+  {
+   "line": 1632,
+   "text": "MOBI/Send to Kindle not supported for non-Kindle profiles"
+  },
+  {
+   "line": 1748,
+   "text": "ERROR: 7z is missing!"
+  },
+  {
+   "line": 1754,
+   "text": "ERROR: KindleGen is missing!"
+  },
+  {
+   "line": 1757,
+   "text": "kindlegen: "
+  },
+  {
+   "line": 1758,
+   "text": "Re-install Rosetta/Kindle Previewer/other Intel app?"
+  },
+  {
+   "line": 1759,
+   "text": "Please email Amazon to make Kindle Previewer Apple silicon native at amazon.com/kindle-help"
+  },
+  {
+   "line": 1772,
+   "text": "Fusion requires at least 2 sources. Did you forget to uncheck fusion?"
+  },
+  {
+   "line": 1784,
+   "text": " [fused]"
+  },
+  {
+   "line": 1786,
+   "text": " [fused]"
+  },
+  {
+   "line": 1787,
+   "text": "Running Fusion"
+  },
+  {
+   "line": 1794,
+   "text": "Processing "
+  },
+  {
+   "line": 1795,
+   "text": "Checking images..."
+  },
+  {
+   "line": 1814,
+   "text": "makefusion: "
+  },
+  {
+   "line": 1814,
+   "text": " seconds"
+  },
+  {
+   "line": 1815,
+   "text": "Combined File: "
+  },
+  {
+   "line": 1831,
+   "text": "Preparing source images..."
+  },
+  {
+   "line": 1833,
+   "text": "Checking images..."
+  },
+  {
+   "line": 1922,
+   "text": "-y "
+  },
+  {
+   "line": 1958,
+   "text": "Do not process image, ignore any profile or processing option"
+  },
+  {
+   "line": 1960,
+   "text": "Processing images..."
+  },
+  {
+   "line": 1962,
+   "text": "Processing images"
+  },
+  {
+   "line": 1974,
+   "text": "Compressing CBZ files"
+  },
+  {
+   "line": 1976,
+   "text": "Creating PDF files"
+  },
+  {
+   "line": 1978,
+   "text": "Compressing EPUB files"
+  },
+  {
+   "line": 1992,
+   "text": "Creating CBZ file..."
+  },
+  {
+   "line": 2004,
+   "text": "Creating PDF file with PyMuPDF..."
+  },
+  {
+   "line": 2014,
+   "text": "Creating EPUB file..."
+  },
+  {
+   "line": 2026,
+   "text": "Creating MOBI files..."
+  },
+  {
+   "line": 2033,
+   "text": "Error: KindleGen failed to create MOBI!"
+  },
+  {
+   "line": 2038,
+   "text": "Kindle detected. Uploading covers..."
+  },
+  {
+   "line": 2042,
+   "text": "Error: Failed to tweak KindleGen output!"
+  },
+  {
+   "line": 2053,
+   "text": "makeBook: "
+  },
+  {
+   "line": 2053,
+   "text": " seconds"
+  },
+  {
+   "line": 2104,
+   "text": "kindlegen: "
+  },
+  {
+   "line": 2104,
+   "text": " sec"
+  },
+  {
+   "line": 2113,
+   "text": "Error("
+  },
+  {
+   "line": 2115,
+   "text": "kindlegen logs dumped"
+  },
+  {
+   "line": 2125,
+   "text": "Warning("
+  },
+  {
+   "line": 2126,
+   "text": ":W14016: Cover not specified"
+  },
+  {
+   "line": 2131,
+   "text": ":E23026:"
+  },
+  {
+   "line": 2133,
+   "text": ":E23028:"
+  },
+  {
+   "line": 2137,
+   "text": ":I1036: Mobi file built successfully"
+  },
+  {
+   "line": 2139,
+   "text": ":I1037: Mobi file built with WARNINGS!"
+  },
+  {
+   "line": 2145,
+   "text": "Error "
+  },
+  {
+   "line": 2145,
+   "text": ": Unknown Windows error. Possibly filepath too long?"
+  },
+  {
+   "line": 2147,
+   "text": "Error "
+  }
+ ],
+ "metadata.py": [],
+ "comic2panel.py": [
+  {
+   "line": 66,
+   "text": "Image too tall at "
+  },
+  {
+   "line": 66,
+   "text": " pixels. "
+  },
+  {
+   "line": 66,
+   "text": " pixels wide. Try using separate chapter folders or file fusion."
+  },
+  {
+   "line": 116,
+   "text": "PDF render failed < 300 px. Try legacy extract option instead."
+  },
+  {
+   "line": 229,
+   "text": "kcc-c2p [options] [input]"
+  },
+  {
+   "line": 235,
+   "text": "Full path to comic folder(s) to be processed. Separate multiple inputs with spaces."
+  },
+  {
+   "line": 238,
+   "text": "Height of the target device screen"
+  },
+  {
+   "line": 240,
+   "text": "Width of the target device screen"
+  },
+  {
+   "line": 242,
+   "text": "Overwrite source directory"
+  },
+  {
+   "line": 244,
+   "text": "Combine every directory into a single image before splitting"
+  },
+  {
+   "line": 246,
+   "text": "Create debug file for every split image"
+  },
+  {
+   "line": 248,
+   "text": "Show this help message and exit"
+  },
+  {
+   "line": 266,
+   "text": "Merging images..."
+  },
+  {
+   "line": 278,
+   "text": "Combining images"
+  },
+  {
+   "line": 286,
+   "text": "Conversion interrupted."
+  },
+  {
+   "line": 289,
+   "text": "One of workers crashed. Cause: "
+  },
+  {
+   "line": 291,
+   "text": "Splitting images..."
+  },
+  {
+   "line": 301,
+   "text": "Splitting images"
+  },
+  {
+   "line": 312,
+   "text": "Conversion interrupted."
+  },
+  {
+   "line": 315,
+   "text": "One of workers crashed. Cause: "
+  },
+  {
+   "line": 319,
+   "text": "C2P: Source directory is empty."
+  },
+  {
+   "line": 321,
+   "text": "Provided input is not a directory."
+  },
+  {
+   "line": 323,
+   "text": "Target height is not set."
+  }
+ ],
+ "KCC_ui.py": [
+  {
+   "line": 660,
+   "text": "Kindle Comic Converter"
+  },
+  {
+   "line": 662,
+   "text": "<html><head/><body><p>Double click on source to open it in metadata editor.</p></body></html>"
+  },
+  {
+   "line": 665,
+   "text": "<html><head/><body><p>After calculating the cropping boundaries, &quot;back up&quot; a specified percentage amount.</p></body></html>"
+  },
+  {
+   "line": 667,
+   "text": "Preserve Margin %"
+  },
+  {
+   "line": 668,
+   "text": "Cropping power:"
+  },
+  {
+   "line": 669,
+   "text": "Gamma: Auto"
+  },
+  {
+   "line": 671,
+   "text": "<html><head/><body><p style='white-space:pre'>Resolution of the target device.</p></body></html>"
+  },
+  {
+   "line": 673,
+   "text": "Custom height:"
+  },
+  {
+   "line": 675,
+   "text": "<html><head/><body><p style='white-space:pre'>Resolution of the target device.</p></body></html>"
+  },
+  {
+   "line": 678,
+   "text": "<html><head/><body><p style='white-space:pre'>Resolution of the target device.</p></body></html>"
+  },
+  {
+   "line": 680,
+   "text": "Custom width:"
+  },
+  {
+   "line": 682,
+   "text": "<html><head/><body><p style='white-space:pre'>Resolution of the target device.</p></body></html>"
+  },
+  {
+   "line": 685,
+   "text": "<html><head/><body><p style='white-space:pre'>Add directory containing JPG, PNG or GIF files to queue.<br/><span style=\" font-weight:600;\">CBR, CBZ and CB7 files inside will not be processed!</span></p></body></html>"
+  },
+  {
+   "line": 687,
+   "text": "Add input folder(s)"
+  },
+  {
+   "line": 689,
+   "text": "<html><head/><body><p style='white-space:pre'>Output format.</p></body></html>"
+  },
+  {
+   "line": 692,
+   "text": "<html><head/><body><p style='white-space:pre'>Target device.</p></body></html>"
+  },
+  {
+   "line": 694,
+   "text": "Clear list"
+  },
+  {
+   "line": 696,
+   "text": "<html><head/><body><p style='white-space:pre'>Add CBR, CBZ, CB7 or PDF file to queue.</p></body></html>"
+  },
+  {
+   "line": 698,
+   "text": "Add input file(s)"
+  },
+  {
+   "line": 700,
+   "text": "<html><head/><body><p style='white-space:pre'>Shift+Click to select the output directory for this list.</p></body></html>"
+  },
+  {
+   "line": 702,
+   "text": "Convert"
+  },
+  {
+   "line": 704,
+   "text": "<html><head/><body><p style='white-space:pre'><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - 4 panels<br/></span>Zoom each corner separately.</p><p style='white-space:pre'><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - 2 panels<br/></span>Zoom only the top and bottom of the page.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - 4 high-quality panels<br/></span>Zoom each corner separately. Try to increase the quality of magnification. Check wiki for more details.</p></body></html>"
+  },
+  {
+   "line": 706,
+   "text": "Panel View 4/2/HQ"
+  },
+  {
+   "line": 708,
+   "text": "Use the PDF/EPUB image extraction method from older KCC versions. \n\nUse if standard extraction fails for whatever reason."
+  },
+  {
+   "line": 712,
+   "text": "Legacy Extract"
+  },
+  {
+   "line": 714,
+   "text": "<html><head/><body><p style='white-space:pre'><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Automatic mode<br/></span>The output will be split automatically.</p><p style='white-space:pre'><span style=\" font-weight:600; text-decoration: underline;\">Checked - Volume mode<br/></span>Every subdirectory will be considered as a separate volume.</p></body></html>"
+  },
+  {
+   "line": 716,
+   "text": "Output split"
+  },
+  {
+   "line": 718,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Main Drive<br/></span>Use dedicated temporary directory on main OS drive.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Source File Drive<br/></span>Create temporary file directory on source file drive.</p></body></html>"
+  },
+  {
+   "line": 720,
+   "text": "Temp Directory"
+  },
+  {
+   "line": 722,
+   "text": "<html><head/><body><p style='white-space:pre'>Do not process any image, ignore profile and processing options.</p></body></html>"
+  },
+  {
+   "line": 724,
+   "text": "Disable processing"
+  },
+  {
+   "line": 726,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Nothing<br/></span>Images smaller than device resolution will not be resized.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - Stretching<br/></span>Images smaller than device resolution will be resized. Aspect ratio will be not preserved.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Upscaling<br/></span>Images smaller than device resolution will be resized. Aspect ratio will be preserved.</p></body></html>"
+  },
+  {
+   "line": 728,
+   "text": "Stretch/Upscale"
+  },
+  {
+   "line": 730,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Disabled<br/></span>Disabled</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - Horizontal<br/></span>Crop empty horizontal lines.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Both<br/></span>Crop empty horizontal and vertical lines.</p></body></html>"
+  },
+  {
+   "line": 732,
+   "text": "Inter-panel crop"
+  },
+  {
+   "line": 734,
+   "text": "<html><head/><body><p>Default EPUB language is en-US.</p><p>Only use if your EPUB reader has problems with English fonts.</p></body></html>"
+  },
+  {
+   "line": 736,
+   "text": "EPUB language"
+  },
+  {
+   "line": 738,
+   "text": "<html><head/><body><p style='white-space:pre'>Enable special parsing mode for Korean Webtoons.</p></body></html>"
+  },
+  {
+   "line": 740,
+   "text": "Webtoon mode"
+  },
+  {
+   "line": 742,
+   "text": "Do not rotate double page spreads in spread splitter option."
+  },
+  {
+   "line": 744,
+   "text": "No rotate"
+  },
+  {
+   "line": 746,
+   "text": "Delete input file(s) or directory. It's not recoverable!"
+  },
+  {
+   "line": 748,
+   "text": "Delete input"
+  },
+  {
+   "line": 750,
+   "text": "<html><head/><body><p>Invert the page turn direction.</p><p>Usually used with right to left manga but you want to page turn left to right. Spread splitting would still be right to left in this case.</p><p>Will break various features like landscape mode order.</p></body></html>"
+  },
+  {
+   "line": 752,
+   "text": "Invert Direction"
+  },
+  {
+   "line": 754,
+   "text": "Don't quantize PNG images to 16 colors (4 bit)\n\nThis will double file size but preserve all 256 colors (8 bit).\n\nEink only has 16 shades of gray so you probably don't want this."
+  },
+  {
+   "line": 760,
+   "text": "No Quantize"
+  },
+  {
+   "line": 762,
+   "text": "<html><head/><body><p>When the spread splitter option is partially checked,</p><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Rotate Last<br/></span>Put the rotated 2 page spread after the split spreads.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Rotate First<br/></span>Put the rotated 2 page spread before the split spreads.</p></body></html>"
+  },
+  {
+   "line": 764,
+   "text": "Rotate First"
+  },
+  {
+   "line": 766,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Disabled</span></p><p>Disabled</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - Margins<br/></span>Margins</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Margins + page numbers<br/></span>Margins +page numbers</p></body></html>"
+  },
+  {
+   "line": 768,
+   "text": "Cropping mode"
+  },
+  {
+   "line": 770,
+   "text": "Default Author is KCC"
+  },
+  {
+   "line": 772,
+   "text": "Default Author"
+  },
+  {
+   "line": 774,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - JPEG<br/></span>Use JPEG files</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - force PNG<br/></span>Create PNG files instead JPEG for black and white images</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - mozJpeg<br/></span>10-20% smaller JPEG file, with the same image quality, but processing time multiplied by 2</p></body></html>"
+  },
+  {
+   "line": 776,
+   "text": "JPEG/PNG/mozJpeg"
+  },
+  {
+   "line": 778,
+   "text": "Only resize images and preserve original file structure.\n\nIgnores most options besides JPEG quality, color mode, output folder."
+  },
+  {
+   "line": 782,
+   "text": "Light novel mode"
+  },
+  {
+   "line": 784,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Don't use metadata Title<br/></span>Write default title.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - Add metadata Title to the default schema<br/></span>Write default title with Title from ComicInfo.xml or other embedded metadata.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Use metadata Title only<br/></span>Write Title from ComicInfo.xml or other embedded metadata.</p></body></html>"
+  },
+  {
+   "line": 786,
+   "text": "Metadata Title"
+  },
+  {
+   "line": 788,
+   "text": "<html><head/><body><p>Combines all selected files into a single file. (Helpful for combining chapters into volumes.)</p></body></html>"
+  },
+  {
+   "line": 790,
+   "text": "File Fusion"
+  },
+  {
+   "line": 792,
+   "text": "Force full color images to be saved in lossless PNG format, dramatically increases the filesize."
+  },
+  {
+   "line": 794,
+   "text": "Force PNG RGB"
+  },
+  {
+   "line": 796,
+   "text": "Auto check various options intended for KOreader wallpapers.\n\nWill also crop images to fill the screen centered."
+  },
+  {
+   "line": 800,
+   "text": "Wallpaper mode"
+  },
+  {
+   "line": 802,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - 1x4<br/></span>Keep format 1x4 panels strips.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - 2x2<br/></span>Turn 1x4 strips to 2x2 to maximize screen usage.</p></body></html>"
+  },
+  {
+   "line": 804,
+   "text": "1x4 to 2x2 strips"
+  },
+  {
+   "line": 806,
+   "text": "<html><head/><body><p>By default, KCC maps the darkest pixel value to pure black (the black point.)</p><p>Extreme black point sets the black point to be the most common dark pixel value.</p><p>Useful when text is black but artwork is gray.</p></body></html>"
+  },
+  {
+   "line": 808,
+   "text": "Extreme Black Point"
+  },
+  {
+   "line": 810,
+   "text": "<html><head/><body><p>Force Kindle MOBI to be be tagged as EBOK instead of PDOC.</p><p>This may cause USB loaded books to be deleted if you go online after a month offline.</p></body></html>"
+  },
+  {
+   "line": 812,
+   "text": "Force EBOK"
+  },
+  {
+   "line": 814,
+   "text": "Render vector PDFs to device width instead of height.\n\nUseful if you plan to crop a little off the top and bottom to fill screen."
+  },
+  {
+   "line": 818,
+   "text": "PDF Width Render"
+  },
+  {
+   "line": 820,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - BW only<br/></span>Only autocontrast bw pages. Ignored for pages where near blacks or whites don't exist.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - Disabled<br/></span>Disable autocontrast</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - BW and Color<br/></span>BW and color images will be autocontrasted. Ignored for pages where near blacks or whites don't exist.</p></body></html>"
+  },
+  {
+   "line": 822,
+   "text": "Custom Autocontrast"
+  },
+  {
+   "line": 824,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - next to source<br/></span>Place output files next to source files</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - folder next to source<br/></span>Place output files in a folder next to source files</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Custom<br/></span>Place output files in custom directory specified by right button</p></body></html>"
+  },
+  {
+   "line": 826,
+   "text": "Output Folder"
+  },
+  {
+   "line": 828,
+   "text": "<html><head/><body><p>Use this to select the default output directory.</p></body></html>"
+  },
+  {
+   "line": 832,
+   "text": "Use a more compatible 8 bit PNG instead of 4 bit."
+  },
+  {
+   "line": 834,
+   "text": "PNG Legacy Mode"
+  },
+  {
+   "line": 836,
+   "text": "Rotate 2 page spreads in opposite direction than normal."
+  },
+  {
+   "line": 838,
+   "text": "Rotate Right"
+  },
+  {
+   "line": 840,
+   "text": "<html><head/><body><p>In virtual panel mode:</p><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Horizontal<br/></span>First two panels are the top panels.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Vertical<br/></span>First two panels are the side panels.</p></body></html>"
+  },
+  {
+   "line": 842,
+   "text": "Vertical 4 Panel"
+  },
+  {
+   "line": 844,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Autodetection<br/></span>The color of margins fill will be detected automatically.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - White<br/></span>Margins will be untouched.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Black<br/></span>Margins will be filled with black color.</p></body></html>"
+  },
+  {
+   "line": 846,
+   "text": "W/B margins"
+  },
+  {
+   "line": 848,
+   "text": "Erase rainbow effect on color eink screen by attenuating interfering frequencies"
+  },
+  {
+   "line": 850,
+   "text": "Rainbow eraser"
+  },
+  {
+   "line": 852,
+   "text": "Replace JPG with lossy WebP and PNG with lossless WebP. This includes the JPG Quality.\n\nIgnored for Kindle EPUB/MOBI and all PDF."
+  },
+  {
+   "line": 856,
+   "text": "WebP (experimental)"
+  },
+  {
+   "line": 858,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - Split<br/></span>Double page spreads will be cut into two separate pages.</p><p><span style=\" font-weight:600; text-decoration: underline;\">Indeterminate - Split and rotate<br/></span>Double page spreads will be displayed twice. First split and then rotated. </p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - Rotate<br/></span>Double page spreads will be rotated.</p></body></html>"
+  },
+  {
+   "line": 860,
+   "text": "Spread splitter"
+  },
+  {
+   "line": 862,
+   "text": "<html><head/><body><p><span style=\" font-weight:700; text-decoration: underline;\">Unchecked<br/></span>Maximal output file size is 100 MB for Webtoon, 400 MB for others before split occurs.</p><p><span style=\" font-weight:700; text-decoration: underline;\">Checked</span><br/>Output file size specified in &quot;Chunk size MB&quot; before split occurs.</p></body></html>"
+  },
+  {
+   "line": 864,
+   "text": "Chunk size"
+  },
+  {
+   "line": 866,
+   "text": "The JPEG quality, on a scale from 0 (worst) to 95 (best). \n\nDefault is 85 for most devices besides Kindle Scribe and Colorsoft, which are 90.\n\nHigher values are larger and higher quality, and may resolve blank page issues."
+  },
+  {
+   "line": 872,
+   "text": "Custom JPEG Quality"
+  },
+  {
+   "line": 874,
+   "text": "<html><head/><body><p>Set a custom gamma correction.</p><p>1.0 is default (disabled).<br/>&lt; 1.0 makes the image brighter.<br/>&gt; 1.0 makes the image darker. </p><p>1.8 was the default in KCC 9.1.0 and earlier.</p><p>Use if you want to make midtones darker.</p></body></html>"
+  },
+  {
+   "line": 876,
+   "text": "Custom gamma"
+  },
+  {
+   "line": 878,
+   "text": "<html><head/><body><p style='white-space:pre'>Enable right-to-left reading.</p></body></html>"
+  },
+  {
+   "line": 880,
+   "text": "Right-to-left (manga)"
+  },
+  {
+   "line": 882,
+   "text": "<html><head/><body><p style='white-space:pre'>Disable conversion to grayscale.</p></body></html>"
+  },
+  {
+   "line": 884,
+   "text": "Color mode"
+  },
+  {
+   "line": 886,
+   "text": "<html><head/><body><p>Default Title</p></body></html>"
+  },
+  {
+   "line": 888,
+   "text": "Default Title"
+  },
+  {
+   "line": 890,
+   "text": "Resize cover to exact device resolution by center-cropping to aspect ratio first.\nMay crop top/bottom or left/right depending on source aspect ratio. Not implemented for Kindle Scribe."
+  },
+  {
+   "line": 893,
+   "text": "Cover Fill"
+  },
+  {
+   "line": 895,
+   "text": "<html><head/><body><p>Attempt to crop main cover from wide image.</p></body></html>"
+  },
+  {
+   "line": 897,
+   "text": "Smart Cover Crop"
+  },
+  {
+   "line": 899,
+   "text": "Shift first page to opposite side in landscape for two page spread alignment"
+  },
+  {
+   "line": 901,
+   "text": "Spread shift"
+  },
+  {
+   "line": 903,
+   "text": "<html><head/><body><p><span style=\" font-weight:600; text-decoration: underline;\">Unchecked - 2 page landscape<br/></span>2 viewports for left and right pages</p><p><span style=\" font-weight:600; text-decoration: underline;\">Checked - 1 page landscape<br/></span>A single centered viewport for 1 page</p></body></html>"
+  },
+  {
+   "line": 905,
+   "text": "1 Page Landscape"
+  },
+  {
+   "line": 907,
+   "text": "Keep any original ComicInfo.xml files.\n\nKeeping this file may crash some readers like the Kobo native CBZ reader."
+  },
+  {
+   "line": 911,
+   "text": "Keep ComicInfo.xml"
+  },
+  {
+   "line": 912,
+   "text": "JPEG Quality:"
+  },
+  {
+   "line": 914,
+   "text": "Hold shift while clicking for a low quality preview."
+  },
+  {
+   "line": 916,
+   "text": "Label Spreads"
+  },
+  {
+   "line": 917,
+   "text": "Support me on Ko-fi"
+  },
+  {
+   "line": 919,
+   "text": "<html><head/><body><p style='white-space:pre'>Shift+Click to edit directory.</p></body></html>"
+  },
+  {
+   "line": 921,
+   "text": "Metadata Editor"
+  },
+  {
+   "line": 922,
+   "text": "Humble Bundle Referral"
+  },
+  {
+   "line": 924,
+   "text": "Toggle Easy/Expert Mode"
+  },
+  {
+   "line": 926,
+   "text": "Easy/Expert Mode"
+  },
+  {
+   "line": 928,
+   "text": "<html><head/><body><p>Warning: chunk size greater than default may cause<br/>performance/battery issues, especially on older devices.</p></body></html>"
+  },
+  {
+   "line": 930,
+   "text": "Chunk size MB:"
+  },
+  {
+   "line": 931,
+   "text": "Greater than default may cause performance issues on older ereaders."
+  },
+  {
+   "line": 932,
+   "text": "Hover over each option/button to see an explanation! Options can be partially checked or fully checked!"
+  }
+ ],
+ "KCC_ui_editor.py": [
+  {
+   "line": 182,
+   "text": "Metadata editor"
+  },
+  {
+   "line": 183,
+   "text": "Series:"
+  },
+  {
+   "line": 184,
+   "text": "Volume:"
+  },
+  {
+   "line": 186,
+   "text": "<b>Bulk Volume Editing</b><br>Check this box to assign volume numbers to multiple files.<br><br><b>Input formats:</b><br><code>5</code> → sequence starting from 5 (5, 6, 7...)<br><code>1-10</code> → range from 1 to 10<br><code>1, 3, 5</code> → specific values<br><br><i>Note: Files are sorted alphabetically before assignment.</i>"
+  },
+  {
+   "line": 189,
+   "text": "Number:"
+  },
+  {
+   "line": 190,
+   "text": "Writer:"
+  },
+  {
+   "line": 191,
+   "text": "Penciller:"
+  },
+  {
+   "line": 192,
+   "text": "Inker:"
+  },
+  {
+   "line": 193,
+   "text": "Colorist:"
+  },
+  {
+   "line": 194,
+   "text": "Title:"
+  },
+  {
+   "line": 196,
+   "text": "Save"
+  },
+  {
+   "line": 197,
+   "text": "Cancel"
+  }
+ ]
+}
