@@ -3,7 +3,7 @@ psutil>=7.2.2
 requests>=2.34.2
 python-slugify>=8.0.4
 packaging>=26.2
-mozjpeg-lossless-optimization>=1.2.0
+mozjpeg-lossless-optimization>=1.3.2
 natsort>=8.4.0
 # Below requirements are compiled in Dockefile
 # numpy==2.3.4
