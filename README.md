@@ -6,7 +6,7 @@
 [![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows-lightgrey)](#一快速开始)
 [![内容由 AI 生成](https://img.shields.io/badge/%E5%86%85%E5%AE%B9%E7%94%B1-AI%20%E7%94%9F%E6%88%90-orange)](#八许可证与合规)
 
-# KCC 漫画转换器 12.0.0（简体中文汉化版）
+# KCC 漫画转换器 12.1.1（简体中文汉化版）
 
 ![KCC 简体中文汉化版实际运行界面](docs/screenshot.png)
 
@@ -23,13 +23,13 @@
 **Kindle Comic Converter（KCC）** 是一款把漫画、条漫、轻小说转换成电子墨水阅读器专用格式的工具。
 转换后的页面可以**满屏无白边**显示，并支持固定版式。
 
-本版本基于官方 **12.0.0** 源码完整汉化，仅界面文字改为简体中文，转换引擎与官方完全一致。
+本版本基于官方 **12.1.1** 源码汉化，采用上游官方多语言框架加载中文界面，转换引擎与官方完全一致。
 
 ---
 
 ## 一、快速开始
 
-1. 双击 `KCC_12.0.0_zh.exe` 启动程序（首次启动稍慢，属于正常现象）。
+1. 双击 `KCC_12.1.1_zh.exe` 启动程序（首次启动稍慢，属于正常现象）。
 2. 把漫画文件或图片文件夹**拖入窗口**，或点击「添加输入文件」/「添加输入文件夹」。
 3. 在右上角选择你的**设备**，在左上角选择**输出格式**。
 4. 点击「开始转换」。转换完成后，输出文件会和源文件放在同一目录（或你指定的目录）。
@@ -41,10 +41,10 @@
 ### 下载与安全校验
 
 - 程序本体在 [Releases 页面](https://github.com/mengmengma0104/kcc-zh-cn/releases/latest)下载：
-  `KCC_12.0.0_zh.exe`（约 87 MB，单文件免安装）。
+  `KCC_12.1.1_zh.exe`（约 87 MB，单文件免安装）。
 - **SHA256 校验值**：
-  `fda3b6eaca32680b348a88f10b731ce6df682c63cd8cc0afe7e17bbd1f1545dd`
-  下载后可在命令行执行 `certutil -hashfile KCC_12.0.0_zh.exe SHA256` 核对，或对照 Release 附件中的 `SHA256SUMS.txt`。
+  `8583748529d02c59504ff457fa86268e954e49325b1bbbf7ff306d48271e55c0`
+  下载后可在命令行执行 `certutil -hashfile KCC_12.1.1_zh.exe SHA256` 核对，或对照 Release 附件中的 `SHA256SUMS.txt`。
 - **首次运行弹出「Windows 已保护你的电脑」？** 这是 Windows SmartScreen 对**未签名程序**的常规提示——
   本 exe 由源码直接构建，没有购买代码签名证书，并不代表有病毒。点击「更多信息」→「仍要运行」即可。
   如果不放心，可以跳过下载、按第七节自行从源码构建。
@@ -89,7 +89,7 @@ KCC 生成 MOBI 依赖亚马逊官方的 `kindlegen` 工具。
 
 - **推荐方式**：安装 [Kindle Previewer](https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011)（免费），
   KCC 会自动从中找到 kindlegen，无需手动配置。
-- **如果你已经有** `kindlegen.exe`：把它放在 `KCC_12.0.0_zh.exe` **同一个文件夹**里，程序会自动识别。
+- **如果你已经有** `kindlegen.exe`：把它放在 `KCC_12.1.1_zh.exe` **同一个文件夹**里，程序会自动识别。
 
 > **本仓库为何不附带 kindlegen？**
 > `kindlegen` 是亚马逊的专有软件，其许可**明确不允许再分发**（仅授权安装使用，不允许转载、不允许通过网络分发）。
@@ -159,8 +159,11 @@ A：设备型号名（如 Kindle Oasis、Kobo Clara 2E）刻意保留原文，�
 
 ## 六、汉化说明与已知限制
 
-- 汉化方式为**直接替换界面文字**：程序结构、转换算法与官方 12.0.0 完全一致，只是文字改成中文。
-- **本项目在 AI 辅助下完成**，翻译由 AI 生成、未经人工逐条校对，可能存在不准确之处。界面文字为就地替换，**不支持中英切换**；如需英文原版，请从官方仓库下载：https://github.com/ciromattia/kcc/releases
+- 自上游 12.1.1 起，KCC 引入了**官方多语言框架**（Qt 翻译文件 `.ts`/`.qm`）。本汉化版即基于该框架：
+  界面源码保持英文原文（个别本地修改的文件除外），中文译文存于 `translations/kcc_zh_CN.ts`，
+  随程序资源一同打包、运行时加载。程序结构、转换算法与官方 12.1.1 完全一致，只是界面默认显示简体中文。
+- **本项目在 AI 辅助下完成**，翻译由 AI 生成、未经人工逐条校对，可能存在不准确之处。
+  界面默认中文；如需英文原版，请从官方仓库下载：https://github.com/ciromattia/kcc/releases
 - 设备下拉框中，彩色机型额外标注了「（彩色）」以便区分。
 - 本汉化版**仅包含图形界面程序**，不含命令行工具 `kcc-c2e` / `kcc-c2p`。
 - 命令行工具的帮助信息、以及 `--help` 输出仍为英文（未纳入汉化范围）。
@@ -171,7 +174,9 @@ A：设备型号名（如 Kindle Oasis、Kobo Clara 2E）刻意保留原文，�
 
 | 位置 | 改动 | 原因 |
 |---|---|---|
-| `KCC_gui.py` | 设备/格式下拉框改为「中文显示 + 英文键值」分离，19 处查找改用 `currentData()` | 原代码用**显示文字**作为字典键查内部代码，直接翻译会导致每次转换都崩溃 |
+| `KCC_gui.py` | 设备/格式下拉框保持「中文显示 + 英文键值」分离，20 处查找改用 `currentData()` | 原代码用**显示文字**作为字典键查内部代码，显示中文会导致每次转换都崩溃 |
+| `KCC_gui.py` | 固定分辨率设备项（如 `2400x3200`）的显示名映射 | 12.1.1 新增的固定分辨率条目由代码动态生成，需补入映射表才能随下拉框渲染 |
+| `KCC_gui.py` | 默认语言设为 `zh_CN` | 官方框架默认英文，本版本开箱即中文 |
 | `KCC_spread_label.py` | 跨页标注对话框改用布尔状态变量 | 原代码靠比较标签文字 `"not a spread"` 判断状态，翻译后会静默出错 |
 | `KCC_gui.py` | 元数据编辑器批量编辑的 5 个字段标题 | 这些英文标题会直接显示在提示框中 |
 
@@ -186,25 +191,28 @@ cd kcc-11.2.0-zh
 py -3.13 -m venv venv
 venv\Scripts\activate.bat
 pip install -r requirements.txt pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
-venv\Scripts\python.exe -m PyInstaller --hidden-import=_cffi_backend -y -F -i icons\comic2ebook.ico -n KCC_12.0.0_zh -w --noupx kcc.py
+venv\Scripts\python.exe -m PyInstaller --hidden-import=_cffi_backend -y -F -i icons\comic2ebook.ico -n KCC_12.1.1_zh -w --noupx kcc.py
 ```
 
 > 用 `python -m PyInstaller` 而非直接调 `pyinstaller.exe`：venv 若被移动过，
 > pip 生成的入口程序内嵌旧路径会静默失效（rc=1 无输出），模块方式不受影响。
 
-产物为 `dist\KCC_12.0.0_zh.exe`（约 87 MB）。
+产物为 `dist\KCC_12.1.1_zh.exe`（约 87 MB）。
 构建前请自行把 `kindlegen.exe` 放在 exe 同目录，否则 MOBI 转换不可用。
 
-汉化相关工具位于 `tools\zh\`：
+汉化相关工具位于 `tools\zh\`（界面译文在 `translations\kcc_zh_CN.ts`，
+改动后用仓库根目录的 `gen_translation_files.bat` 重新生成 `.qm` 与资源模块）：
 
 | 文件 | 作用 |
 |---|---|
-| `translations.py` | 英文→中文对照表（含 f-string 片段表，可自行增改） |
+| `translations.py` | 英文→中文对照表（历史版本与 f-string 片段，可自行增改） |
 | `apply_zh.py` | 把对照表应用到 `.py` 与 `.ui` 两层源码（AST 精确替换，保留占位符） |
 | `extract_strings.py` | 从源码提取待译字符串，生成对照表骨架 |
+| `display_names.py` | 设备/格式下拉框显示名映射（12.x 架构） |
 | `strict_audit.py` | 无白名单严格审计：列出所有可能漏译的英文字符串 |
+| `audit_i18n_coverage.py` | 12.x i18n 覆盖率审计：核对每个 translate() 源串在 .ts 中有成品译文 |
 | `test_gui_offscreen.py` | 离屏回归：遍历全部设备/格式 + 工具提示抽查 + 严格英文扫描 |
-| `verify_invariants.py` | 校验键值分离不变量（字典键、下拉顺序、查找方式） |
+| `verify_invariants.py` | 校验键值分离不变量（字典键、下拉顺序、查找方式、显示名映射） |
 | `scan_widget_strings.py` | 导出运行时界面全部可见文字，便于人工核对 |
 | `capture_screenshot.py` | 启动 exe 截取界面并做像素质检 |
 | `test_convert.py` | 端到端转换测试（CBZ/PDF/EPUB/KEPUB/MOBI） |
